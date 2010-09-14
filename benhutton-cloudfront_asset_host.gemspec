@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{wpeterson-cloudfront_asset_host}
-  s.version = "1.0.2"
+  s.version = "1.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Menno van der Sman"]
@@ -35,9 +35,9 @@ Gem::Specification.new do |s|
      "test/css_rewriter_test.rb",
      "test/test_helper.rb",
      "test/uploader_test.rb",
-     "wpeterson-cloudfront_asset_host.gemspec"
+     "benhutton-cloudfront_asset_host.gemspec"
   ]
-  s.homepage = %q{http://github.com/menno/cloudfront_asset_host}
+  s.homepage = %q{http://github.com/benhutton/cloudfront_asset_host}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.5}
